@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_1280.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    font-family: 'Rock Salt', cursive;
+}

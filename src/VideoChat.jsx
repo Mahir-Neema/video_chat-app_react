@@ -188,7 +188,7 @@ const VideoChatComponent = () => {
         <span>
           <h3>User 1</h3>
           {/* local stream */}
-          <video ref={webcamVideo} autoPlay playsInline></video>
+          <video className='videoborder' ref={webcamVideo} autoPlay playsInline></video>
         </span>
         <span>
           <h3>User 2</h3>

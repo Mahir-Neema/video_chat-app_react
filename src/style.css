@@ -29,11 +29,12 @@ h3 {
 }
 
 video {
-  width: 300px;
+  width: 270px;
   height: 200px;
   margin: 20px;
-  background-color: #eee;
+  background-color: #eeeeee41;
   border-radius: 8px;
+  /* border: grey dashed 1px; */
 }
 
 button {
